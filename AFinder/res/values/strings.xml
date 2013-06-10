@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">A Finder</string>
+    <string name="profile_button">Profile</string>
+    <string name="ar_view_button">AR View</string>
+    <string name="dummy_content"></string>
+    <string name="directory_button">Directory</string>
+    <string name="help_button">Help</string>
+    <string name="title_activity_main_profile_view">MainProfileView</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main_profile">MainProfile</string>
+    <string name="longhitude_string">Longhitude: </string>
+    <string name="title_activity_main_directory">MainDirectory</string>
+    <string name="label">Label</string>
+    <string-array name="ghk">
+        <item >sdfdsf</item>
+        <item >34534gr</item>
+        <item >454ferwt</item>
+    </string-array>
+
+</resources>
